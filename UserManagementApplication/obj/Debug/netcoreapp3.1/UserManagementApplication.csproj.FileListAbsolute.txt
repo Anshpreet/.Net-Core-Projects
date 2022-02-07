@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\bin\Debug\netcoreapp3.1\UserManagementApplication.exe
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\bin\Debug\netcoreapp3.1\UserManagementApplication.deps.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\bin\Debug\netcoreapp3.1\UserManagementApplication.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\bin\Debug\netcoreapp3.1\UserManagementApplication.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\bin\Debug\netcoreapp3.1\UserManagementApplication.dll
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\bin\Debug\netcoreapp3.1\UserManagementApplication.pdb
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\obj\Debug\netcoreapp3.1\UserManagementApplication.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\obj\Debug\netcoreapp3.1\UserManagementApplication.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\obj\Debug\netcoreapp3.1\UserManagementApplication.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\obj\Debug\netcoreapp3.1\UserManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\obj\Debug\netcoreapp3.1\UserManagementApplication.dll
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\obj\Debug\netcoreapp3.1\UserManagementApplication.pdb
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\UserManagementApplication\obj\Debug\netcoreapp3.1\UserManagementApplication.genruntimeconfig.cache

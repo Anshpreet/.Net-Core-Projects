@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\bin\Debug\netcoreapp3.1\AccountManagementApplication.exe
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\bin\Debug\netcoreapp3.1\AccountManagementApplication.deps.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\bin\Debug\netcoreapp3.1\AccountManagementApplication.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\bin\Debug\netcoreapp3.1\AccountManagementApplication.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\bin\Debug\netcoreapp3.1\AccountManagementApplication.dll
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\bin\Debug\netcoreapp3.1\AccountManagementApplication.pdb
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\obj\Debug\netcoreapp3.1\AccountManagementApplication.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\obj\Debug\netcoreapp3.1\AccountManagementApplication.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\obj\Debug\netcoreapp3.1\AccountManagementApplication.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\obj\Debug\netcoreapp3.1\AccountManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\obj\Debug\netcoreapp3.1\AccountManagementApplication.dll
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\obj\Debug\netcoreapp3.1\AccountManagementApplication.pdb
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\AccountManagementApplication\obj\Debug\netcoreapp3.1\AccountManagementApplication.genruntimeconfig.cache

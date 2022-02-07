@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVtGYf4jotLDMSG+GS2STm9vPfFe6K4J4lKQeUR9r0iVYq6NXxCtWXhls+btl+nG2NiwK4sSGgNWfpoMpBo1sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anshpreet kaur\\source\\repos\\AccountManagementApplication\\AccountManagementApplication\\AccountManagementApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anshpreet kaur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

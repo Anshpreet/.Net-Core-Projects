@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\bin\Debug\netcoreapp3.1\ContactManagementApplication.exe
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\bin\Debug\netcoreapp3.1\ContactManagementApplication.deps.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\bin\Debug\netcoreapp3.1\ContactManagementApplication.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\bin\Debug\netcoreapp3.1\ContactManagementApplication.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\bin\Debug\netcoreapp3.1\ContactManagementApplication.dll
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\bin\Debug\netcoreapp3.1\ContactManagementApplication.pdb
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\obj\Debug\netcoreapp3.1\ContactManagementApplication.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\obj\Debug\netcoreapp3.1\ContactManagementApplication.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\obj\Debug\netcoreapp3.1\ContactManagementApplication.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\obj\Debug\netcoreapp3.1\ContactManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\obj\Debug\netcoreapp3.1\ContactManagementApplication.dll
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\obj\Debug\netcoreapp3.1\ContactManagementApplication.pdb
+C:\Users\Anshpreet kaur\source\repos\AccountManagementApplication\ContactManagementApplication\obj\Debug\netcoreapp3.1\ContactManagementApplication.genruntimeconfig.cache
